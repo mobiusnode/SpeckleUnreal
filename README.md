@@ -47,9 +47,10 @@ We will eventually look to distributing the plugin officially on the Unreal Engi
 | ------- | -------------------------------------------------------------------------------- |
 | ~0.1~   | ~First prototype release as Unreal Engine plugin~   								 			         |
 | ~0.2~   | ~Spawn geometry in transform heirarchy based on layer data~		    	         |
-| 0.3   | New component workflow and custom materials assigned via inspector~		 |
-| 0.4   | User login API, get Stream API and no dependency on a local install of Speckle |
-| 0.5   | Rendering Rule API                      |
-| 0.6     | Local caching of Speckle streams			                                     |
-| 0.7     | Implement Sender API    			                                 |
+| ~0.3~   | ~Editor receive Speckle Stream support~		    	         |
+| 0.4   | New component workflow and custom materials assigned via inspector~		 |
+| 0.5   | User login API, get Stream API and no dependency on a local install of Speckle |
+| 0.6   | Rendering Rule API                      |
+| 0.7     | Local caching of Speckle streams			                                     |
+| 0.8     | Implement Sender API    			                                 |
 | 1.0     | Production ready (out of preview)      			                                 |
